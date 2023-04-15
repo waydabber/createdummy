@@ -6,8 +6,6 @@ The tool is **free to use for personal use** (if used for business, I kindly ask
 
 The tool runs on **macOS Mojave and newer, Intel and Apple Silicon**.
 
-Please add a **thumbs-up** to this post if you download/use it so I may know there is a demand for such a thing. :)
-
 ---
 
 Use `createdummy help` to list instructions.
