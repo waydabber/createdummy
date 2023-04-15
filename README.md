@@ -2,9 +2,9 @@
 
 A simple command line based tool to create a dummy with a specific list of resolutions.
 
-The tool is **free to use for personal use** (if used for business, I kindly ask you to please purchase a [BetterDisplay](https://github.com/waydabber/BetterDisplay) license to support development).
+**[Download here for macOS Mojave and newer for Intel and Apple Silicon](https://github.com/waydabber/createdummy/releases/download/v1.1.0/createdummy-v1.1.0.zip)**
 
-The tool runs on **macOS Mojave and newer, Intel and Apple Silicon**.
+The tool is **free to use for personal use** (if used for business, I kindly ask you to please purchase a [BetterDisplay](https://github.com/waydabber/BetterDisplay) license to support development).
 
 ---
 
