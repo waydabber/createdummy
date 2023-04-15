@@ -1,6 +1,6 @@
 ## createdummy
 
-A simple command line based tool to create a dummy with a specific list of resolutions.
+**Create virtual displays on macOS via CLI.** - A simple command line tool to create a virtual screen (dummy) with a specific list of resolutions.
 
 **[Download here for macOS Mojave and newer for Intel and Apple Silicon](https://github.com/waydabber/createdummy/releases/download/v1.1.0/createdummy-v1.1.0.zip)**
 
